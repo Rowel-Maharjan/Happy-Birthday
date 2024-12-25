@@ -2,7 +2,7 @@
   "greeting": "Hey",
   "name": "Sis!",
   "greetingText": "You are the best sis anyone could ask for.",
-  "wishText": "May your day be filled with joy, laughter, and love ;)",
+  "wishText": "May your day be filled with joy, laughter, and love 🥰",
   "imagePath": "lydia2.png",
   "text1": "Guess what?! It's your special day!! 🎉",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "Now, go enjoy your day and don't forget to tell me how awesome this was!",
+  "replayText": "Or click here to relive this sweet moment again.",
   "outroSmiley": ":)"
 }
